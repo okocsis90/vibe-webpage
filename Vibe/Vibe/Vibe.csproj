@@ -156,6 +156,7 @@
     <Content Include="Content\Images\bandmember.jpg" />
     <Content Include="Content\Images\concertImg.jpeg" />
     <Content Include="Content\Images\concertImg2.jpeg" />
+    <Content Include="Content\Images\facebook_circle.png" />
     <Content Include="Content\Images\release.jpeg" />
     <Content Include="Content\NavBar.css" />
     <Content Include="Content\TourDates.css" />

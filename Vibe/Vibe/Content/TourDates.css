@@ -10,3 +10,7 @@
 .bg-1 p {
     font-style: italic;
 }
+
+.list-group {
+    color: black;
+}
